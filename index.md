@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tímový projekt
 
 You can use the [editor on GitHub](https://github.com/Roman3579/tp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
