@@ -14,7 +14,7 @@ Návrh a implementácia konkrétnej aplikácie s vybranými prvkami technológie
 - Marek Lunter
 - Erik Masný
 
-### Google Meet
+### Konzultácie
 Konzultácie prebiehajú každý utorok na [Google Meet](https://meet.google.com/pyq-fjzv-akh).
 
 ### Zápisnice
