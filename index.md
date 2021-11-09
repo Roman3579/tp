@@ -17,7 +17,7 @@ Návrh a implementácia konkrétnej aplikácie s vybranými prvkami technológie
 ### Konzultácie
 Konzultácie prebiehajú každý utorok na [Google Meet](https://meet.google.com/pyq-fjzv-akh).
 
-### Zápisnice
+### Témy konzultácií
 
 1. Prvotná konzultácia, diskusia o možnom smerovaní projektu, diskusia o doterajších skúsenostiach s danou témou
 2. Diskusia o podkladových materiáloch, rozdelenie materiálov medzi jednotlivých členov tímu, dohoda o prezentácii materiálov (v rámci konzultácií)
@@ -27,3 +27,9 @@ Konzultácie prebiehajú každý utorok na [Google Meet](https://meet.google.com
 6. Prezentácia prvých troch kapitol článku (1) určenými členmi tímu; prezentácia Merkle trees (hašovacích stromov)
 7. Prezentácia posledných troch kapitol článku (1)
 
+### Zápisnice
+
+* [Zápisnica 3.pdf (Obsahuje aj zhrnutia stretnutí 1. a 2.)](https://github.com/Roman3579/tp/files/7506548/Zapisnica.3.pdf)
+* [Zápisnica 4.pdf](https://github.com/Roman3579/tp/files/7506553/Zapisnica.4.pdf)
+* [Zápisnica 5.pdf](https://github.com/Roman3579/tp/files/7506554/Zapisnica.5.pdf)
+* [Zápisnica 7.pdf](https://github.com/Roman3579/tp/files/7506555/Zapisnica.7.pdf)
