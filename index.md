@@ -26,7 +26,7 @@ Konzultácie prebiehajú každý utorok na [Google Meet](https://meet.google.com
 5. Prezentácia hlavných bodov bakalárskej práce „Aplikácia so súkromným Blockchainom pre zdravotníctvo; objasnenie matematicky zameranej časti článku „A Hierarchical and AbstractionBased Blockchain Model“ (1)
 6. Prezentácia prvých troch kapitol článku (1) určenými členmi tímu; prezentácia Merkle trees (hašovacích stromov)
 7. Prezentácia posledných troch kapitol článku (1)
-8. - vynechané -
+8. (vynechané)
 9. Diskusia o možných aplikačných doménach, vytvorenie návrhu osnovy písomnej časti, rozdelenie kapitol osnovy medzi členov tímu
 
 ### Zápisnice
