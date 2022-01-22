@@ -31,7 +31,9 @@ Konzultácie prebiehajú každý utorok na [Google Meet](https://meet.google.com
 
 ### Zápisnice
 
-* [Zápisnica 3.pdf (Obsahuje aj zhrnutia stretnutí 1. a 2.)](https://github.com/Roman3579/tp/files/7506548/Zapisnica.3.pdf)
+* [Zápisnica 1.pdf](https://github.com/Roman3579/tp/files/7918289/Zapisnica.1.pdf)
+* [Zápisnica 2.pdf](https://github.com/Roman3579/tp/files/7918290/Zapisnica.2.pdf)
+* [Zápisnica 3.pdf](https://github.com/Roman3579/tp/files/7506548/Zapisnica.3.pdf)
 * [Zápisnica 4.pdf](https://github.com/Roman3579/tp/files/7506553/Zapisnica.4.pdf)
 * [Zápisnica 5.pdf](https://github.com/Roman3579/tp/files/7506554/Zapisnica.5.pdf)
 * [Zápisnica 6.pdf](https://github.com/Roman3579/tp/files/7506663/Zapisnica.6.pdf)
