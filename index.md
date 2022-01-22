@@ -1,4 +1,4 @@
-## Tímový projekt
+## Návrh a implementácia konkrétnej aplikácie s vybranými prvkami technológie Blockchain
 
 ### Téma projektu
 
