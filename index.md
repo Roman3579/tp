@@ -30,7 +30,7 @@ Konzultácie prebiehajú každý utorok na [Google Meet](https://meet.google.com
 9. Diskusia o možných aplikačných doménach, vytvorenie návrhu osnovy písomnej časti, rozdelenie kapitol osnovy medzi členov tímu
 
 ### Zápisnice
-
+#### 1. semester
 * [Zápisnica 1.pdf](https://github.com/Roman3579/tp/files/7918289/Zapisnica.1.pdf)
 * [Zápisnica 2.pdf](https://github.com/Roman3579/tp/files/7918290/Zapisnica.2.pdf)
 * [Zápisnica 3.pdf](https://github.com/Roman3579/tp/files/7506548/Zapisnica.3.pdf)
@@ -42,5 +42,9 @@ Konzultácie prebiehajú každý utorok na [Google Meet](https://meet.google.com
 * [Zápisnica 9.pdf](https://github.com/Roman3579/tp/files/7918389/Zapisnica.9.pdf)
 * [Zápisnica 10.pdf](https://github.com/Roman3579/tp/files/7918390/Zapisnica.10.pdf)
 
-
-
+#### 2. semester
+* [Zápisnica 13.pdf](https://github.com/Roman3579/tp/files/8380901/Zapisnica.13.pdf)
+* [Zápisnica 14.pdf](https://github.com/Roman3579/tp/files/8380903/Zapisnica.14.pdf)
+* [Zápisnica 15.pdf](https://github.com/Roman3579/tp/files/8380906/Zapisnica.15.pdf)
+* [Zápisnica 16.pdf](https://github.com/Roman3579/tp/files/8380907/Zapisnica.16.pdf)
+* [Zápisnica 17.pdf](https://github.com/Roman3579/tp/files/8380908/Zapisnica.17.pdf)
